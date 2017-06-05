@@ -1,0 +1,30 @@
+{
+  "name": "yuisakamoto.github.io",
+  "version": "1.0.0",
+  "description": "sandbox",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "connect": "^3.6.2",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-jsx-a11y": "^5.0.3",
+    "eslint-plugin-react": "^7.0.1",
+    "serve-static": "^1.12.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint assets/js/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuiSakamoto/YuiSakamoto.github.io.git"
+  },
+  "author": "YuiSakamoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuiSakamoto/YuiSakamoto.github.io/issues"
+  },
+  "homepage": "https://github.com/YuiSakamoto/YuiSakamoto.github.io#readme"
+}
